@@ -1,0 +1,12 @@
+
+#foodbottom-background{
+  background-image: url("../img/backgrounds/foodsBg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  background-position: center;
+}
+/* .logoheader{
+  text-align: center;
+  color: white;
+} */
