@@ -1,4 +1,10 @@
-#secondRow{
+#secondRow {
   border: 1px solid black;
   height: 150px;
+  text-align: center;
+}
+
+#secondRow1 {
+  height: 75px;
+  border: 1px solid black;
 }
