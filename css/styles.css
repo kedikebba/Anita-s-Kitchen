@@ -10,3 +10,15 @@
   text-align: center;
   color: white;
 } */
+#foodbottom-content-section{
+  width: 68%;
+  margin-left: 200px;
+  margin-right: 50px;
+  margin-top: 90px;
+  margin-bottom: 50px;
+  border: 1px solid grey;
+  height: 300px;
+  background-color: white;
+
+
+}
