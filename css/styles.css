@@ -1,4 +1,4 @@
-#subscribe-section{
+#subscribe-col{
   background-image: url("../img/backgrounds/subscribe.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -7,6 +7,11 @@
   height: 280px;
 
 }
+/* #subscribe-form-ID{
+  background-color: grey;
+  color: white;
+
+} */
 /* #subscribe-button{
   width: 50%;
   height: 34px;
