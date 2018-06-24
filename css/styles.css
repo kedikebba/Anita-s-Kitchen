@@ -1,10 +1,41 @@
-#secondRow {
-  border: 1px solid black;
-  height: 150px;
-  text-align: center;
-}
 
 #secondRow1 {
-  height: 75px;
-  border: 1px solid black;
+
+  height: 180px;
+  text-align: center;
+}
+#secondRow1-1 {
+  height: 90px;
+  border: 0px solid white;
+  background-color: grey;
+  color: black;
+
+}
+#secondRow1-2 {
+  height: 90px;
+  border: 0px solid white;
+  background-color: #F15A29;
+  color: white;
+
+}
+#secondRow2 {
+  border: 0px solid black;
+  height: 180px;
+  text-align: center;
+  background-image: url("../img/foodtop/breakfast.jpg");
+  color: white;
+}
+#secondRow3 {
+  border: 0px solid black;
+  height: 180px;
+  text-align: center;
+  background-image: url("../img/foodtop/dinner2.jpg");
+  color: white;
+}
+#secondRow4 {
+  border: 0px solid black;
+  height: 180px;
+  text-align: center;
+  background-image: url("../img/foodtop/dinner.jpg");
+  color: white;
 }
