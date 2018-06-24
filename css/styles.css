@@ -3,7 +3,7 @@
   background-image: url("../img/backgrounds/foodsBg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 500px;
+  height: 450px;
   background-position: center;
 }
 /* .logoheader{
@@ -14,11 +14,18 @@
   width: 68%;
   margin-left: 200px;
   margin-right: 50px;
-  margin-top: 90px;
+  margin-top: 75px;
   margin-bottom: 50px;
-  border: 1px solid grey;
+  color: #F15A29;
   height: 300px;
   background-color: white;
+
+
+}
+#foodbottom-content-sub-section-1{
+
+  text-align: center;
+  color: #F15A29;
 
 
 }
