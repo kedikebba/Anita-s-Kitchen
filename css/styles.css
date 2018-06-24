@@ -19,13 +19,26 @@
   color: #F15A29;
   height: 300px;
   background-color: white;
-
-
+  border: 1px solid white;
 }
 #foodbottom-content-sub-section-1{
-
   text-align: center;
   color: #F15A29;
 
-
+}
+#foodbottom-content-thumbnail{
+  border: 1px solid white;
+}
+#foodbottom-section-header-1{
+color: #F15A29;
+text-align: center;
+background-color: white
+height: 35px
+}
+#foodbottom-section-header{
+  text-align: center;
+  background-color: grey;
+  height: 35px;
+  color: black;
+  border: 0.1px solid white;
 }
