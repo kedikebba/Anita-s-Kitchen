@@ -18,7 +18,7 @@ This is a Anita's Kitchen Web page, my second Independent Project at Moringa Sch
 3. Look for index.html in the repo, from your local machine and open it.
 
 ## Link to Page
-https://kedikebba.github.io/Portfolio/
+https://kedikebba.github.io/Anita-s-Kitchen/
 
 ## Support and contact details
 Email me on kebbakedi@gmail.com
