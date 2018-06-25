@@ -1,14 +1,27 @@
-# Independent Project
+# ANITA's KITCHEN
 
-## Instructions
-  1) Please clone the Moringa School **mpft1-ip** repo to your computer.
+#### Welcome to Anita's Kitchen Webpage
+#### By **Kedi**
 
-  2) Create a repo on your profile, and copy the files from **mpft1-ip** to your new repo.
-  
-  3) Fix up the folder structure.
+## Description
+This is a Anita's Kitchen Web page, my second Independent Project at Moringa School. It is built on;
+* HTML
+* CSS
+* Bootstrap
+* Javascript
 
-  4) Submit your link through Moringa School LMS.
 
-  5) Complete the independent project.
-  
-  6) Push your commits up to your repo.
+
+## Instructions;
+1. Install git, atom on either a linux machine or Windows Machine.
+2. Clone this repo.
+3. Look for index.html in the repo, from your local machine and open it.
+
+## Link to Page
+https://kedikebba.github.io/Portfolio/
+
+## Support and contact details
+Email me on kebbakedi@gmail.com
+### License
+*MIT*
+Copyright (c) 2018 **Moringa School - Outbox Collaboration**
