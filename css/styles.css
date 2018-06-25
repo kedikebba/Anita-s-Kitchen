@@ -1,3 +1,14 @@
 body{
   font-family: 'Open Sans', sans-serif;
 }
+#background-image{
+  background-image: url("../img/landing.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  background-position: center;
+}
+.logoheader{
+  text-align: center;
+  color: white;
+}
