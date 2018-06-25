@@ -197,3 +197,12 @@ height: 35px
     width: 20%
     align: center;
 } */
+
+
+#footer-col{
+  background-color: #F15A29;
+  height: 250px;
+  text-align: center;
+  color: white;
+  /* font-family: */
+}
