@@ -59,6 +59,18 @@ body{
 
 /* CSS For Fast Food Section. */
 
+#fastfoodSection{
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+}
+
+#fastfood-section{
+  
+  margin-bottom: 100px;
+
+}
+
 #fastfood-row-1{
   height: 420px;
   text-align: center;
@@ -87,7 +99,7 @@ box-shadow: 0 0 10px rgba(0,0,0, .65);
 
 }
 #fastfood-row-4{
-  eight: 420px;
+  height: 420px;
   text-align: center;
   border: 1px solid white;
   box-shadow: 2px 2px 2px 2px #888888;
@@ -155,10 +167,34 @@ height: 35px
 
 
 #customer-col{
-  height: 200px;
+  height: 250px;
   border: 1px solid black;
 }
 
+#customer-row-positioning{
+  width: 68%;
+  margin-left: 260px;
+  margin-right: 50px;
+  margin-top: 24px;
+  margin-bottom: 50px;
+  /* color: #F15A29; */
+  height: 200px;
+  background-color: white;
+  border: 1px solid grey;
+
+  box-shadow: 2px 2px 2px 2px #888888;
+
+  -webkit-box-shadow: 0 0 10px rgba(0,0,0, .65);
+-moz-box-shadow: 0 0 10px rgba(0,0,0, .65);
+box-shadow: 0 0 10px rgba(0,0,0, .65);
+}
+#customer-row-positioning h3{
+color: #F15A29;
+}
+/* #customer-row-inside-border{
+  border-left: 1px solid grey;
+  border-bottom: 10px;
+} */
 /* CSS For Subscribe Section */
 
 #subscribe-col{
