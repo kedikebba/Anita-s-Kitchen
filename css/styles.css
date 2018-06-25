@@ -1,6 +1,9 @@
 body{
   font-family: 'Open Sans', sans-serif;
 }
+
+/* CSS for Header Section. */
+
 #background-image{
   background-image: url("../img/landing.jpg");
   background-repeat: no-repeat;
@@ -12,7 +15,7 @@ body{
   text-align: center;
   color: white;
 }
-
+/* CSS For Headtop Section */
 #secondRow1 {
 
   height: 180px;
@@ -54,6 +57,7 @@ body{
   color: white;
 }
 
+/* CSS For Fast Food Section. */
 
 #fastfood-row-1{
   height: 420px;
@@ -103,7 +107,7 @@ box-shadow: 0 0 10px rgba(0,0,0, .65);
     padding: 10px;
 }
 
-
+/* CSS For Food Bottom Section */
 
 #foodbottom-background{
   background-image: url("../img/backgrounds/foodsBg.jpg");
@@ -155,7 +159,7 @@ height: 35px
   border: 1px solid black;
 }
 
-
+/* CSS For Subscribe Section */
 
 #subscribe-col{
   background-image: url("../img/backgrounds/subscribe.jpg");
@@ -198,6 +202,8 @@ height: 35px
     align: center;
 } */
 
+
+/* CSS For Footer Section. */
 
 #footer-col{
   background-color: #F15A29;
