@@ -148,3 +148,9 @@ height: 35px
   color: black;
   border: 0.1px solid white;
 }
+
+
+#customer-col{
+  height: 200px;
+  border: 1px solid black;
+}
